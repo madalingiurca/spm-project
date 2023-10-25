@@ -216,8 +216,8 @@ layout: statement
   :initial="{ y: -200 }"
   :enter="{ y: 0, transition: {
       repeat: Infinity,
-      repeatDelay: 2000,
-      repeatType: 'reverse',
+      repeatDelay: 1000,
+      repeatType: 'mirror',
     }}">
   <h1>Any questions?</h1>
 </div>
