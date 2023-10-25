@@ -212,7 +212,7 @@ layout: statement
 # Thanks for your time!
 
 <div
-  v-motion-pop-visible
+  v-motion-slide-top
   :initial="{ y: -200 }"
   :enter="{ y: 0, transition: {
       repeat: Infinity,
