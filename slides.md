@@ -120,6 +120,8 @@ C --> D(What works?);
 -->
 
 ---
+transition: slide-left
+---
 
 # Evaluations
 
@@ -148,8 +150,10 @@ other steps involved: workshops, community meetings, architects, urban planners,
 -->
 
 ---
+transition: slide-left
+---
 
-# Measurements[^1]
+# Measurements*
 
 1. Benchmark Design vs Traditional Thinking
 2. Employee Satisfaction with Design Projects
@@ -162,12 +166,33 @@ other steps involved: workshops, community meetings, architects, urban planners,
 9. Design Thinking Capabilities
 10. Outcomes and Roadmap Items
 
+*empirical measurements
+
+---
+transition: slide-left
+---
+
+# Measurements[^2]
+<div class="flex justify-center">
+   <img src="/sucess-impact.png" class="relative rounded p-2 h-100 w-100" />
+</div>
 
 
+[^2]: [Design Thinking: a Global Study on Implementation Practices in Organizations from HPI](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/53466/file/design_thinking_study.pdf)
 
-[^1]: empirical measurements
+---
+transition: slide-left
+---
+
+# Measurements
+
+<div class="flex justify-center">
+   <img src="/perception-of-impact.png" class="relative rounded p-2 h-100 w-100" />
+</div>
+
 ---
 layout: fact
+transition: slide-left
 ---
 
 # Conclusions
